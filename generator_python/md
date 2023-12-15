@@ -1,0 +1,44 @@
+[?1049h[>4;2m[?1h=[?2004h[?1004h[1;43r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[43;1H"tests" is a directory[1;1H" ============================================================================
+" Netrw Directory Listing[40C(netrw v171)
+"   /Users/jjcruikshanks/Desktop/uvic/sengGitClone/jcruikshanks/a2/tests
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+[4m../                                                                                                                                [m[9;1H./
+q1.csv
+q2.csv
+q3.csv
+q4.csv
+q5.csv
+.q2.csv.swp
+[94m~                                                                                                                                  [17;1H~                                                                                                                                  [18;1H~                                                                                                                                  [19;1H~                                                                                                                                  [20;1H~                                                                                                                                  [21;1H~                                                                                                                                  [22;1H~                                                                                                                                  [23;1H~                                                                                                                                  [24;1H~                                                                                                                                  [25;1H~                                                                                                                                  [26;1H~                                                                                                                                  [27;1H~                                                                                                                                  [28;1H~                                                                                                                                  [29;1H~                                                                                                                                  [30;1H~                                                                                                                                  [31;1H~                                                                                                                                  [32;1H~                                                                                                                                  [33;1H~                                                                                                                                  [34;1H~                                                                                                                                  [35;1H~                                                                                                                                  [36;1H~                                                                                                                                  [37;1H~                                                                                                                                  [38;1H~                                                                                                                                  [39;1H~                                                                                                                                  [40;1H~                                                                                                                                  [41;1H~                                                                                                                                  [42;1H~                                                                                                                                  [8;1H[?25h[?25l[m[43;1HNo matching autocommands: FileType netrw[1;66H[7m|[2;66H|[3;66H|[4;66H|[5;66H|[6;66H|[7;66H|[8;66H|[9;66H|[m
+tests/[59C[7m|[m
+route_manager.py*[48C[7m|[m
+tester*[58C[7m|[m
+validator*[55C[7m|[m
+TESTS.md[57C[7m|[m
+a2         [54C[7m|[m
+airlines.yaml                                                    [7m|[m
+airports.yaml                                                    [7m|[m
+md                                                               [7m|[m
+q1.csv                                                           [7m|[m
+routes.yaml                                                      [7m|[21;66H|[22;66H|[23;66H|[24;66H|[25;66H|[26;66H|[27;66H|[28;66H|[29;66H|[30;66H|[31;66H|[32;66H|[33;66H|[34;66H|[35;66H|[36;66H|[37;66H|[38;66H|[39;66H|[40;66H|[41;66H|[m
+[1m[7m~/Desktop/uvic/sengGitClone/jcruikshanks/a2 [RO]                  [m[1;67H" [10C=====================================================[2;67H" Netrw Directory Listing[3;67H"   /Users/jjcruikshanks/Desktop/uvic/sengGitClone/jcruikshanks/a[4;67H"   Sorted by      name[5;67H"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\[6;67H"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sor[7;67H" [12C===================================================[8;67H[4m../[m[9;67H./[10;67Hq1.csv[11;67Hq2.csv[12;67Hq3.csv[13;67Hq4.csv[14;67Hq5.csv[15;67H.q2.csv.swp[16;67H[94m~[17;67H~[18;67H~[19;67H~[20;67H~[21;67H~[22;67H~[23;67H~[24;67H~[25;67H~[26;67H~[27;67H~[28;67H~[29;67H~[30;67H~[31;67H~[32;67H~[33;67H~[34;67H~[35;67H~[36;67H~[37;67H~[38;67H~[39;67H~[40;67H~[41;67H~[m[42;67H[7mtests [RO]                                                       [8;1H[?25h[?25l[m[33C[4m0 Sun  5 Mar 21:46:38 2023[m[9;34H0 Sun  5 Mar 21:46:36 2023
+TESTS.md[25C2596 Tue 14 Feb 11:37:24 2023
+a2               [16C0 Fri 10 Feb 19:05:01 2023
+airlines.yaml[20C701874 Sat 25 Feb 13:14:38 2023
+airports.yaml[20C1358591 Tue 14 Feb 11:37:24 2023
+md      [25C6358 Sun  5 Mar 21:46:38 2023
+q1.csv[27C501 Sun  5 Mar 19:33:12 2023
+route_manager.py*[16C3601 Sun  5 Mar 21:46:30 2023
+routes.yaml  [20C589849 Sun  5 Mar 16:46:46 2023
+tester*[26C105 Tue 14 Feb 11:37:24 2023
+tests/[27C0 Sun  5 Mar 21:46:38 2023
+validator* [22C7328 Tue 14 Feb 11:37:24 2023[8;1H[?25h[1C[?25l[43;1H"NetrwMessage"  --No lines in buffer--[43;39H[K[40;1H[7m~/Desktop/uvic/sengGitClone/jcruikshanks/a2 [RO]                  tests [RO]                                                       [m[41;1H**error** (netrw) there are no marked files in this window (:help netrw-mf)[41;76H[K[42;1H[1m[7mNetrwMessage [RO]n                                [17C                                                                 [41;1H[?25h[?25l[m
+
+Type  :qa  and press <Enter> to exit Vim[41;1H[?25h[?25l[?25h
+
+[?1004l[?2004l[?1l>[>4;m[?1049lVim: Caught deadly signal HUP
+Vim: Finished.
+[43;1H[23;2t[23;1t
