@@ -1,4 +1,4 @@
-[![Made with C](https://img.shields.io/badge/Made%20with-C-yellow.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![Made with C](https://img.shields.io/badge/Made%20with-C-yellow.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 
 This assignment was made for the SENG265 course at the University of Victoria. 
 
